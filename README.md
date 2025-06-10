@@ -2,6 +2,11 @@
 
 This repository contains a comprehensive suite of automated tests and scripts for interacting with backend APIs using Ruby and the HTTParty gem. The automation encompasses API testing, data validation, and backend service interactions. Additionally, it features BDD (Behavior-Driven Development) using Gherkin for clear and expressive test scenarios, it includes test suites, utility functions, and examples of HTTParty usage for seamless backend automation.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1560ac37-3e9d-43ff-8bf3-b4dfbd51813f" alt="cypress" width="400" />
+</p>
+
+
 ## Features
 
 - API testing with Ruby and HTTParty
